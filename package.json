@@ -62,7 +62,7 @@
     "fastboot-app-server": "^1.0.1"
   },
   "engines": {
-    "node": "6.*"
+    "node": "6.0"
   },
   "private": true
 }
